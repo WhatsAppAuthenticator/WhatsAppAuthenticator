@@ -44,7 +44,7 @@ Learn more about its benefits by [clicking here](https://docs.whatsappauthbot.co
 *Remember that this is for one server only*
 
 # Suggestions👍👎
-Submit your suggestion via GitHub or support server. Click here to submit your suggestion.
+Submit your suggestion via GitHub or support server. [Click here](https://github.com/WhatsAppAuthenticator/WhatsAppAuthenticator/issues) to submit your suggestion.
 > *1. Your suggestion is very important for us to further improve the usability of WhatsApp Authenticator;*
 > 
 > *2. Don't send your Issues off-topic;*
