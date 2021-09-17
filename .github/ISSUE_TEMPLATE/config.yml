@@ -1,6 +1,4 @@
 blank_issues_enabled: false
-  - name: Test
-    about: Test
 contact_links:
   - name: Invite Bot
     url: https://discord.com/oauth2/authorize?client_id=854509145021874186&permissions=268766208&scope=bot%20applications.commands
@@ -14,3 +12,5 @@ contact_links:
   - name: Server | Community & Support
     url: https://discord.gg/hnq5ptdmZ2
     about: Server Invite!
+  - name: Test
+    about: Test
