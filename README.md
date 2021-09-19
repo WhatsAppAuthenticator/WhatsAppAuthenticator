@@ -22,24 +22,25 @@ A WhatsApp Authenticator to check users on your Discord server via WhatsApp!
 
 `/language` - Change the language.
 
-`/key activate [key]` - Activate a key to get premium features.
+`/donate` - To buy the Premium.
+
+`/key activate [key]` - Activate a key to get Premium features.
+
+`/ping` - View latency.
 
 `/serverpremium` - Checks the Premium expiration time on the server.
 
 ## Premium ✨
 As you saw in the previous table, WhatsApp Authenticator has additional functions in the premium version. When purchasing Premium Features you will be able to use commands that are only available for Premium servers.
 
-> Info:
-> WhatsApp Authenticator currently only accepts Pix, but will soon accept Paypal. For more information about the payment of the bot, go to the  [Discord Server](https://discord.com/invite/hnq5ptdmZ2)
-
 ### Prices: 💸
 Learn more about its benefits by [clicking here](https://docs.whatsappauthbot.com/premium).
 
- - R$ 1,00 **->** `5 days`
- - R$ 2,00 **->**  `10 days`
- - R$ 3,00 **->**  `15 days`
- - R$ 4,00 **->**  `20 days` 
- - R$ 5,00 **->**  `30 days`
+ - 1,00 BRL **->** `5 days`
+ - 2,00 BRL **->**  `10 days`
+ - 3,00 BRL **->**  `15 days`
+ - 4,00 BRL **->**  `20 days` 
+ - 5,00 BRL **->**  `30 days`
 
 *Remember that this is for one server only*
 
