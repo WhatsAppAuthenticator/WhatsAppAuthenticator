@@ -31,18 +31,8 @@ A WhatsApp Authenticator to check users on your Discord server via WhatsApp!
 `/serverpremium` - Checks the Premium expiration time on the server.
 
 ## Premium ✨
-As you saw in the previous table, WhatsApp Authenticator has additional functions in the premium version. When purchasing Premium Features you will be able to use commands that are only available for Premium servers.
+As you saw in the previous table, WhatsApp Authenticator has additional functions in the premium version. When purchasing Premium Features you will be able to use commands that are only available for Premium servers. Learn more about its benefits by [clicking here](https://docs.whatsappauthbot.com/premium).
 
-### Prices: 💸
-Learn more about its benefits by [clicking here](https://docs.whatsappauthbot.com/premium).
-
- - 1,00 BRL **->** `5 days`
- - 2,00 BRL **->**  `10 days`
- - 3,00 BRL **->**  `15 days`
- - 4,00 BRL **->**  `20 days` 
- - 5,00 BRL **->**  `30 days`
-
-*Remember that this is for one server only*
 
 # Suggestions👍👎
 Submit your suggestion via GitHub or support server. [Click here](https://github.com/WhatsAppAuthenticator/WhatsAppAuthenticator/issues) to submit your suggestion.
