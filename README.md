@@ -1,6 +1,6 @@
 # About the WhatsApp Authenticator ᴮᴱᵀᴬ 🤖
 
-A WhatsApp Authenticator to check users on your Discord server via WhatsApp!
+A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 ### 📃 Documentation: https://docs.whatsappauthbot.com
 ### 📝 Terms Of Use: https://docs.whatsappauthbot.com/terms
