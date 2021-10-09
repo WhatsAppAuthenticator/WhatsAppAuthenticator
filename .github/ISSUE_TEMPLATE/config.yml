@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Invite Bot
-    url: https://discord.com/oauth2/authorize?client_id=854509145021874186&permissions=268766208&scope=bot%20applications.commands
+    url: https://discord.com/oauth2/authorize?client_id=854509145021874186&permissions=275146722308&scope=bot%20applications.commands
     about: Add the WhatsApp Authenticator to your server!
   - name: Documentation
     url: https://docs.whatsappauthbot.com/
