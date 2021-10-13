@@ -1,14 +1,20 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Invite Bot
+  - name: 🇺🇸 Invite Bot | 🇧🇷 Convidar Bot
     url: https://discord.com/oauth2/authorize?client_id=854509145021874186&permissions=275146722308&scope=bot%20applications.commands
-    about: Add the WhatsApp Authenticator to your server!
-  - name: Documentation
+    about: 🇺🇸 Add the WhatsApp Authenticator to your server! | 🇧🇷 Convide o WhatsApp Authenticator para o seu servidor
+  - name: 🇺🇸 Documentation
     url: https://docs.whatsappauthbot.com/
     about: You will be redirected to Documentation!
-  - name: Terms Of Use
+  - name: 🇧🇷 Documentação (Português)
+    url: https://docs.whatsappauthbot.com/v/br/
+    about: Você será redirecionado para a documentação!
+  - name: 🇺🇸 Terms Of Use
     url: https://docs.whatsappauthbot.com/terms
     about: Terms of Use of WhatsApp Authenticator!
-  - name: Server | Community & Support
+  - name: 🇧🇷 Termos de Uso (Português)
+    url: https://docs.whatsappauthbot.com/v/br/termos
+    about: Termos de Uso do WhatsApp Authenticator!
+  - name: 🇺🇸|🇧🇷 Server | Community & Support
     url: https://discord.gg/hnq5ptdmZ2
-    about: Server Invite!
+    about: 🇺🇸 Server Invite! | 🇧🇷 Convite para o servidor
