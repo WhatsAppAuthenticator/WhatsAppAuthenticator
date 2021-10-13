@@ -1,6 +1,6 @@
 ---
 name: 🇺🇸 Suggestion Center | 🇧🇷 Central de Sugestões
-about: 🇺🇸 Send us your suggestion with ideas and suggestions on what we can improve on WhatsApp Authenticator! | 🇧🇷 Envie-nos sua sugestão com ideias e sugestões sobre o que podemos melhorar no WhatsApp Authenticator!
+about: 🇺🇸 Send us your suggestion with ideas and suggestions on what we can improve on WhatsApp Authenticator!
 title: ''
 labels: "English, Suggestions, Portuguese, Português, Sugestões, Sugestão "
 assignees: ''
