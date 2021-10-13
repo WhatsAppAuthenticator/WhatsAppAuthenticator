@@ -40,7 +40,7 @@ Como você viu na tabela anterior, o WhatsApp Authenticator possui funções adi
 Envie sua sugestão via GitHub ou servidor de suporte. [Clique aqui](https://github.com/WhatsAppAuthenticator/WhatsAppAuthenticator/issues) para enviar sua sugestão.
 > *1. Sua sugestão é muito importante para que possamos melhorar ainda mais a usabilidade do WhatsApp Authenticator;*
 > 
-> *2. Não envie seus problemas para fora do tópico;*
+> *2. Não envie seus problemas fora do tópico;*
 > 
 > *3. Você será punido se enviar algo que possa ser prejudicial ao bot e aos usuários.*
 
