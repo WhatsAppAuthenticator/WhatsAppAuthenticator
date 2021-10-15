@@ -12,7 +12,7 @@ Um autenticador WhatsApp para verificar usuários em seu servidor Discord via Wh
 
 `/verify log #canal` - Para que o bot sete o log assim que o membro for verificado.
 
-`/verify button #canal message [mensagem]` - Permite que a equipe configure o WhatsApp Authenticator enviar uma mensagem no canal correspondente juntamente com um botão para que os usuários possam verificar seu acesso no servidor substituindo o comando tradicional de verificação.
+`/verify button #canal message [mensagem]`**ᴾᴿᴱᴹᴵᵁᴹ** - Permite que a equipe configure o WhatsApp Authenticator enviar uma mensagem no canal correspondente juntamente com um botão para que os usuários possam verificar seu acesso no servidor substituindo o comando tradicional de verificação.
 
 `/verify log #canal mensagem [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Permite que o bot sete o log assim que o membro for verificado e altera a mensagem que o bot enviará no log.
 
