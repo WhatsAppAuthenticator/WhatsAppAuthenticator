@@ -16,9 +16,15 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 `/verify log #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on the channel after members are verified.
 
-`/verify block [country code]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to block so that users from certain countries cannot check in to the server.
+`/verify mod block-country [country code]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to block so that users from certain countries cannot check in to the server.
+
+`/verify mod allow-country [country code]` **ᴾᴿᴱᴹᴵᵁᴹ** - It only allows certain countries to verify access on the server.
 
 `/verify message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on WhatsApp.
+
+`/verify mod ban-user @user` - Allows ban users and associated number of users to verify access on the server.
+
+`/verify mod unban-user @user` - Allows unban users and associated number of users to verify access on the server.
 
 `/verify settings` - Check server settings.
 
