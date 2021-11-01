@@ -49,8 +49,3 @@ Envie sua sugestão via GitHub ou servidor de suporte. [Clique aqui](https://git
 > *2. Não envie seus problemas fora do tópico;*
 > 
 > *3. Você será punido se enviar algo que possa ser prejudicial ao bot e aos usuários.*
-
-## Info 📑
-
-*O bot ainda está em fase beta, quaisquer bugs reportam aos desenvolvedores do bot, isso é muito importante para nós termos um bot mais agradável para o seu ambiente!*
-
