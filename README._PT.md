@@ -1,4 +1,4 @@
-# Sobre o WhatsApp Authenticator ᴮᴱᵀᴬ 🤖
+# Sobre o WhatsApp Authenticator 🤖
 
 Um autenticador WhatsApp para verificar usuários em seu servidor Discord via WhatsApp!
 
