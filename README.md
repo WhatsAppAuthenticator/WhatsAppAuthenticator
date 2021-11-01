@@ -49,7 +49,3 @@ Submit your suggestion via GitHub or support server. [Click here](https://github
 > *2. Don't send your Issues off-topic;*
 > 
 > *3. You will be punished if you submit much could be harmful to the bot and users.*
-
-## Info 📑
-
-*The bot is still in its beta stage, any bugs report to the bot developers, this is very important for us to have a more pleasant bot for your environment!* 
