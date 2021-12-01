@@ -34,6 +34,10 @@ Um autenticador WhatsApp para verificar usuários em seu servidor Discord via Wh
 
 `/key activate [key]` - Ativa uma key (código secreto) para utilizar os recursos Premium no servidor.
 
+`/vote votes` - Veja o número de votos e o total de votos conforme você votou em top.gg. [Clique aqui](https://top.gg/bot/854509145021874186/vote) para votar.
+
+`/vote redeem` - Troque seus votos por dias Premium. [Clique aqui](https://top.gg/bot/854509145021874186/vote) para votar.
+
 `/ping` - Verificar latência.
 
 `/serverpremium` - Verificar os dias restantes de Premium no servidor.
