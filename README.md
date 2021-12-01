@@ -4,7 +4,7 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 ### 📃 Documentation: https://docs.whatsappauthbot.com
 ### 📝 Terms Of Use: https://docs.whatsappauthbot.com/terms
-### ✉ Contact us: support@whatsappauthbot.com
+### ✉ [Open Ticket](https://ticket.whatsappauthbot.com) 
 
 ## Functions 🔧
 
