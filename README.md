@@ -34,6 +34,10 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 `/key activate [key]` - Activate a key to get Premium features.
 
+`/vote votes` - See the number of votes and total votes as you voted on top.gg. [Click here](https://top.gg/bot/854509145021874186/vote) to vote.
+
+`/vote redeem` - Exchange your votes for Premium days. [Click here](https://top.gg/bot/854509145021874186/vote) to vote.
+
 `/ping` - View latency.
 
 `/serverpremium` - Checks the Premium expiration time on the server.
