@@ -38,6 +38,10 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 `/vote redeem` - Exchange your votes for Premium days. [Click here](https://top.gg/bot/854509145021874186/vote) to vote.
 
+`/botinfo` - View WhatsApp Authenticator information.
+
+`/userinfo` - View a user's Information.
+
 `/ping` - View latency.
 
 `/serverpremium` - Checks the Premium expiration time on the server.
