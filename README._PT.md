@@ -38,6 +38,10 @@ Um autenticador WhatsApp para verificar usuários em seu servidor Discord via Wh
 
 `/vote redeem` - Troque seus votos por dias Premium. [Clique aqui](https://top.gg/bot/854509145021874186/vote) para votar.
 
+`/botinfo` - Ver as informações do WhatsApp Authenticator.
+
+`/userinfo` - Ver as informações de um usuário.
+
 `/ping` - Verificar latência.
 
 `/serverpremium` - Verificar os dias restantes de Premium no servidor.
