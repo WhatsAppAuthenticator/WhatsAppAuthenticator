@@ -8,25 +8,27 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 ## Functions 🔧
 
-`/verify role @role` - Set up the role that will be assigned to members after verified.
+`/verify set role @role` - Set up the role that will be assigned to members after verified.
 
-`/verify log #channel` - Set up a channel where messages will be sent after the member is verified.
+`/verify set log #channel` - Set up a channel where messages will be sent after the member is verified.
 
-`/verify button #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows the Staff team to configure WhatsApp Authenticator to send a message on the corresponding channel along with a button so that users can verify their access to the server replacing the traditional verification command.
+`/verify set button #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows the Staff team to configure WhatsApp Authenticator to send a message on the corresponding channel along with a button so that users can verify their access to the server replacing the traditional verification command.
 
-`/verify log #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on the channel after members are verified.
+`/verify set log #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on the channel after members are verified.
 
 `/verify mod block-country [country code]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to block so that users from certain countries cannot check in to the server.
 
 `/verify mod allow-country [country code]` **ᴾᴿᴱᴹᴵᵁᴹ** - It only allows certain countries to verify access on the server.
 
-`/verify message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on WhatsApp.
+`/verify set message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on WhatsApp and Telegram.
+
+`/verify set platform`**ᴾᴿᴱᴹᴵᵁᴹ** - Enable/Disable user authentication also via Telegram.
 
 `/verify mod ban-user @user` - Allows ban users and associated number of users to verify access on the server.
 
 `/verify mod unban-user @user` - Allows unban users and associated number of users to verify access on the server.
 
-`/verify settings` - Check server settings.
+`/verify set view` - Check server settings.
 
 `/language` - Change the language.
 
