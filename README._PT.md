@@ -20,7 +20,7 @@ Um autenticador WhatsApp para verificar usuários em seu servidor Discord via Wh
 
 `/verify mod allow-country [código do país]` **ᴾᴿᴱᴹᴵᵁᴹ** - Permite que apenas determinados usuários do código do país correspondente possa verificar o acesso no servidor.
 
-`/verify set message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Altera a mensagem que é enviada aos membros no WhatsApp pelo bot.
+`/verify set message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Altera a mensagem que é enviada aos membros no WhatsApp e Telegram pelo bot.
 
 `/verify set platform`**ᴾᴿᴱᴹᴵᵁᴹ** - Ativar/Desativar autenticação dos usuários também pelo Telegram. 
 
