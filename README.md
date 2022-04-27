@@ -14,6 +14,8 @@ A WhatsApp Authenticator to verify users on your Discord server via WhatsApp!
 
 `/verify set log #channel` - Set up a channel where messages will be sent after the member is verified.
 
+`/verify start` - Allow you to verify your access to the server using the command (in case the server team has not configured the use of the button).
+
 `/verify set button #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows the Staff team to configure WhatsApp Authenticator to send a message on the corresponding channel along with a button so that users can verify their access to the server replacing the traditional verification command.
 
 `/verify set log #channel message [message]`**ᴾᴿᴱᴹᴵᵁᴹ** - Allows you to change the message that is sent on the channel after members are verified.
