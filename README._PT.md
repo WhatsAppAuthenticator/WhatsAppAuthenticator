@@ -4,7 +4,7 @@
 
 📃 **[Documentação](https://docs.whatsappauthbot.com/v/br/)**
 📝 **[Termos de Uso](https://docs.whatsappauthbot.com/v/br/termos)**
-✉ **[Contacte-nos](https://whatsappauthbot.com/contact)**
+✉ **[Contacte-nos](https://whatsappauthbot.com/pt/contato)**
 
 ## Função 🔧
 
