@@ -32,6 +32,8 @@
 
 `/verify set view` - Check server settings.
 
+`/preferences` - Set your preferred number and platform to make it easier to verify your access to servers **ᴾᴿᴱᴹᴵᵁᴹ**. You can also enable direct message notification system and enable ephemeral message system.
+
 `/language` - Change the language.
 
 `/donate` - To buy the Premium.
