@@ -32,7 +32,7 @@
 
 `/verify set view` - Checa as configurações atuais do servidor.
 
-`/preferences` - Defina número e plataforma preferencial para verificar seus acesso aos servidores **ᴾᴿᴱᴹᴵᵁᴹ**. Você também pode ativar o sistema de notificação por mensagem direta e ativar o sistema de mensagens em efêmero.
+`/preferences` - Defina número e plataforma preferencial para facilitar a sua verificação de seu acesso aos servidores **ᴾᴿᴱᴹᴵᵁᴹ**. Você também pode ativar o sistema de notificação por mensagem direta e ativar o sistema de mensagens em efêmero.
 
 `/language` - Altera a linguagem do bot no servidor.
 
